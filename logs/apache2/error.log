@@ -1,0 +1,30 @@
+[Mon Jun 04 21:24:40.682833 2018] [access_compat:error] [pid 25:tid 140194686682880] [client 172.21.0.1:37778] AH01797: client denied by server configuration: /var/www/config/
+[Mon Jun 04 21:24:40.684779 2018] [access_compat:error] [pid 25:tid 140194686682880] [client 172.21.0.1:37778] AH01797: client denied by server configuration: /var/www/classes/
+[Mon Jun 04 21:24:40.684826 2018] [access_compat:error] [pid 25:tid 140194686682880] [client 172.21.0.1:37778] AH01797: client denied by server configuration: /var/www/docs/
+[Mon Jun 04 21:24:40.686038 2018] [core:alert] [pid 25:tid 140194686682880] [client 172.21.0.1:37778] /var/www/upload/.htaccess: Invalid command 'php_flag', perhaps misspelled or defined by a module not included in the server configuration
+[Mon Jun 04 21:24:40.686454 2018] [access_compat:error] [pid 25:tid 140194686682880] [client 172.21.0.1:37778] AH01797: client denied by server configuration: /var/www/override/
+[Mon Jun 04 21:24:41.862807 2018] [access_compat:error] [pid 25:tid 140194644719360] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/config/
+[Mon Jun 04 21:24:41.866230 2018] [access_compat:error] [pid 25:tid 140194644719360] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/classes/
+[Mon Jun 04 21:24:41.866331 2018] [access_compat:error] [pid 25:tid 140194644719360] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/docs/
+[Mon Jun 04 21:24:41.866815 2018] [core:alert] [pid 25:tid 140194644719360] [client 172.21.0.1:37788] /var/www/upload/.htaccess: Invalid command 'php_flag', perhaps misspelled or defined by a module not included in the server configuration
+[Mon Jun 04 21:24:41.867409 2018] [access_compat:error] [pid 25:tid 140194644719360] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/override/
+[Mon Jun 04 21:24:42.488797 2018] [access_compat:error] [pid 25:tid 140194653112064] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/config/
+[Mon Jun 04 21:24:42.491360 2018] [access_compat:error] [pid 25:tid 140194653112064] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/classes/
+[Mon Jun 04 21:24:42.491430 2018] [access_compat:error] [pid 25:tid 140194653112064] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/docs/
+[Mon Jun 04 21:24:42.491815 2018] [core:alert] [pid 25:tid 140194653112064] [client 172.21.0.1:37788] /var/www/upload/.htaccess: Invalid command 'php_flag', perhaps misspelled or defined by a module not included in the server configuration
+[Mon Jun 04 21:24:42.492342 2018] [access_compat:error] [pid 25:tid 140194653112064] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/override/
+[Mon Jun 04 21:24:42.750703 2018] [access_compat:error] [pid 25:tid 140194627933952] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/config/
+[Mon Jun 04 21:24:42.753552 2018] [access_compat:error] [pid 25:tid 140194627933952] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/classes/
+[Mon Jun 04 21:24:42.753634 2018] [access_compat:error] [pid 25:tid 140194627933952] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/docs/
+[Mon Jun 04 21:24:42.754060 2018] [core:alert] [pid 25:tid 140194627933952] [client 172.21.0.1:37788] /var/www/upload/.htaccess: Invalid command 'php_flag', perhaps misspelled or defined by a module not included in the server configuration
+[Mon Jun 04 21:24:42.754623 2018] [access_compat:error] [pid 25:tid 140194627933952] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/override/
+[Mon Jun 04 21:24:42.963003 2018] [access_compat:error] [pid 25:tid 140194619541248] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/config/
+[Mon Jun 04 21:24:42.964061 2018] [access_compat:error] [pid 25:tid 140194619541248] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/classes/
+[Mon Jun 04 21:24:42.964104 2018] [access_compat:error] [pid 25:tid 140194619541248] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/docs/
+[Mon Jun 04 21:24:42.964263 2018] [core:alert] [pid 25:tid 140194619541248] [client 172.21.0.1:37788] /var/www/upload/.htaccess: Invalid command 'php_flag', perhaps misspelled or defined by a module not included in the server configuration
+[Mon Jun 04 21:24:42.964468 2018] [access_compat:error] [pid 25:tid 140194619541248] [client 172.21.0.1:37788] AH01797: client denied by server configuration: /var/www/override/
+[Mon Jun 04 21:24:56.249045 2018] [access_compat:error] [pid 25:tid 140194560792320] [client 172.21.0.1:37962] AH01797: client denied by server configuration: /var/www/config/
+[Mon Jun 04 21:24:56.251959 2018] [access_compat:error] [pid 25:tid 140194560792320] [client 172.21.0.1:37962] AH01797: client denied by server configuration: /var/www/classes/
+[Mon Jun 04 21:24:56.252051 2018] [access_compat:error] [pid 25:tid 140194560792320] [client 172.21.0.1:37962] AH01797: client denied by server configuration: /var/www/docs/
+[Mon Jun 04 21:24:56.252451 2018] [core:alert] [pid 25:tid 140194560792320] [client 172.21.0.1:37962] /var/www/upload/.htaccess: Invalid command 'php_flag', perhaps misspelled or defined by a module not included in the server configuration
+[Mon Jun 04 21:24:56.252991 2018] [access_compat:error] [pid 25:tid 140194560792320] [client 172.21.0.1:37962] AH01797: client denied by server configuration: /var/www/override/
