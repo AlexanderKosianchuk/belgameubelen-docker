@@ -67,6 +67,7 @@ services:
       extra_hosts:
         - "dockerhost:${DOCKER_HOST_IP}"
       ports:
+        - "587:587"
         - "${WORKSPACE_SSH_PORT}:22"
       tty: true
       environment:
@@ -155,7 +156,9 @@ services:
         - MYSQL_PASSWORD=${MARIADB_PASSWORD}
         - MYSQL_ROOT_PASSWORD=${MARIADB_ROOT_PASSWORD}
       networks:
-        - backend
+        backend:
+          aliases:
+            - database
 
 ### phpMyAdmin ###########################################
     phpmyadmin:
